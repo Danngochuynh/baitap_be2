@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Nội dung từ branch master
+=======
+Nội dung từ branch test_conflict
+>>>>>>> test_conflict
