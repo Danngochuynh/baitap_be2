@@ -1,1 +1,1 @@
-Đây là nội dung để kiểm tra merge
+Nội dung từ branch master
